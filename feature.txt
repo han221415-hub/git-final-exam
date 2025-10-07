@@ -1,0 +1,6 @@
+# Tính năng mới: Quản lý kế hoạch học tập
+1. Cho phép người dùng thêm, sửa, xóa kế hoạch mỗi ngày.
+2. Lưu lịch học vào file hoặc cơ sở dữ liệu.
+3. Hiển thị tiến độ học tập trong tuần.
+4. Gợi ý các hoạt động học bổ ích.
+5. Xuất báo cáo tổng kết sau mỗi tuần.
