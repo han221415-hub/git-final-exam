@@ -1,3 +1,5 @@
 - Git rất hữu ích cho việc quản lý mã nguồn
 - Giúp làm việc nhóm dễ dàng hơn
 - Lưu lại lịch sử thay đổi
+- Dễ dàng quay lại phiên bản cũ
+- Giúp học Git hiệu quả hơn
